@@ -1,0 +1,78 @@
+[
+  {
+    "question": "Integrate the evidence from micro-CT studies, PRM imaging, and GOLD guidelines to design a diagnostic and management pathway for a smoker with chronic cough, normal spirometry, and a family history of early-onset COPD. What steps would you take to stratify risk and initiate early intervention?",
+    "answer": "Micro-CT reveals that terminal bronchiole loss can precede emphysema and airflow limitation, with up to 41% loss in mild COPD. PRM imaging can detect functional small airways disease (PRMfSAD) before spirometric changes, identifying patients at risk for rapid decline. For a symptomatic smoker with normal spirometry, order inspiratory/expiratory CT with PRM analysis to phenotype early disease. If PRMfSAD is present, initiate aggressive risk factor modification (smoking cessation, vaccination), consider early dual bronchodilation if symptoms persist, and schedule follow-up at 1–4 and 12–16 weeks post-intervention, in line with GOLD’s high-risk surveillance windows. Annual re-imaging is reserved for those with progression or management changes." 
+  },
+  {
+    "question": "A patient with moderate COPD and frequent exacerbations has a history of pneumonia and low blood eosinophils. Using the pathophysiology of airway remodeling and the pharmacology of available therapies, justify a stepwise de-escalation plan and monitoring strategy.",
+    "answer": "Chronic inflammation in COPD leads to MMP/TIMP imbalance, elastin degradation, and decorin–collagen disorganization, resulting in collapsible airways. ICS increases pneumonia risk, especially in low-eosinophil patients without exacerbation benefit. De-escalate by withdrawing ICS and initiating LAMA/LABA, which provides structural support via bronchodilation. Monitor inhaler technique and adherence at 1–4 and 12–16 weeks, reassess symptoms and exacerbations, and only reintroduce ICS if exacerbations recur with biomarker support. This approach minimizes infection risk while maintaining airway patency." 
+  },
+  {
+    "question": "Explain how sex differences in airway remodeling, hormonal metabolism, and genetic susceptibility alter the clinical course and management of COPD in women compared to men. How should this influence imaging, therapy, and follow-up?",
+    "answer": "Women exhibit faster FEV1 decline and thicker airway walls for similar obstruction, with greater susceptibility to smoking-related damage. Estrogen-driven CYP1A1/1B1 induction increases toxicant metabolism, and genetic variants (e.g., CELSR1) may confer additional risk. Management should include earlier PRM imaging to detect small-airways disease, lower thresholds for initiating dual bronchodilation, and intensified education on inhaler technique. Follow-up should be more frequent post-exacerbation (1–4 and 12–16 weeks) to address higher readmission risk and ensure adherence." 
+  },
+  {
+    "question": "A patient with severe COPD and frequent ICU admissions is being considered for biologic therapy. Synthesize the evidence on eosinophilic and IL-17 endotypes, trial data for anti-IL-5 and anti-IL-5R agents, and the treatable traits concept to justify your approach.",
+    "answer": "Eosinophilic COPD, identified by blood eosinophils, predicts ICS and possibly anti-IL-5/IL-5R response, but trial data show only modest exacerbation reduction with mepolizumab or benralizumab compared to asthma. IL-17A endotypes are steroid-unresponsive and may not benefit from these biologics. The treatable traits model suggests targeting therapy to biomarker-defined subgroups; thus, reserve biologics for those with persistent eosinophilia and exacerbations despite optimal inhaled therapy, and avoid in IL-17-dominant or non-eosinophilic phenotypes." 
+  },
+  {
+    "question": "Design a cost-utility analysis for a health system considering early PRM-based screening and intervention in high-risk smokers. What are the key cost drivers, and how would you measure clinical and economic outcomes over 12 months?",
+    "answer": "Key cost drivers include the price of PRM imaging, increased use of maintenance therapy, and downstream reductions in severe exacerbation admissions (ranging from $7,000 to $39,200 per event). Clinical outcomes to track are FEV1 decline, exacerbation frequency, and quality of life (SGRQ). Economic outcomes include avoided hospitalizations, ICU days, and total healthcare costs. Compare cohorts with and without PRM-guided intervention, using event rates and cost offsets to estimate net savings and ROI." 
+  },
+  {
+    "question": "A patient with borderline spirometry but high PRMfSAD and minimal PRMemph is concerned about future decline. Integrate micro-CT, PRM, and GOLD data to explain the prognosis and justify your monitoring and treatment plan.",
+    "answer": "Micro-CT shows that small-airways disease (loss of terminal bronchioles) precedes emphysema and predicts faster FEV1 decline. PRMfSAD is sensitive to short-term progression and correlates with clinical outcomes. For this patient, begin dual bronchodilation and aggressive risk modification, monitor symptoms and inhaler use at 1–4 and 12–16 weeks, and repeat spirometry and PRM annually or if symptoms worsen. Early intervention may slow progression to overt obstruction and emphysema." 
+  },
+  {
+    "question": "Explain the mechanistic rationale for using LAMA/LABA as foundational therapy in COPD, referencing ECM remodeling, airway collapsibility, and the limitations of ICS in non-eosinophilic patients.",
+    "answer": "COPD pathogenesis involves ECM degradation (via MMPs), elastin/fibulin-5 defects, and decorin–collagen disorganization, leading to loss of alveolar attachments and airway collapsibility. LAMA/LABA reduces cholinergic tone and provides a pharmacologic brace for these fragile airways, improving expiratory flow. ICS is reserved for patients with biomarker-supported exacerbation biology (eosinophilia), as it does not address structural airway changes and increases pneumonia risk in non-eosinophilic patients." 
+  },
+  {
+    "question": "A patient with frequent exacerbations and chronic bronchitis is on LAMA/LABA but has low eosinophils. Using the latest evidence, outline when to add roflumilast or azithromycin and what monitoring is required.",
+    "answer": "If exacerbations persist on LAMA/LABA and eosinophils are <100 cells/µL, add roflumilast for chronic bronchitis with FEV1 <50%, or azithromycin for former smokers with recurrent events. Monitor for side effects (weight loss, GI symptoms, hearing loss, QT prolongation), reassess exacerbation frequency at 1–4 and 12–16 weeks, and continue nonpharmacologic interventions. Escalate to triple therapy only if exacerbation biology emerges or biomarkers change." 
+  },
+  {
+    "question": "Describe a pharmacist-led intervention to reduce inhaler errors and hospital readmissions in COPD, including documentation, education, and audit strategies.",
+    "answer": "Pharmacists should provide hands-on device selection, repeated technique checks at each follow-up, and tailored education. Document errors and adherence using standardized checklists, and audit impact by tracking error rates, adherence, and downstream exacerbations and readmissions. Sustained education and monitoring reduce severe events and improve outcomes, as shown in multiple studies." 
+  },
+  {
+    "question": "A patient with AECOPD is admitted with purulent sputum and severe dyspnea. Construct an antibiotic and steroid protocol that integrates GOLD, ERS/ATS, and REDUCE trial evidence, and specify discharge education priorities.",
+    "answer": "Initiate antibiotics for purulent sputum, tailored to local resistance. Prefer oral over IV corticosteroids, limiting duration to 5 days per REDUCE trial and ERS/ATS guidance. At discharge, verify inhaler technique, adherence, and arrange follow-ups at 1–4 and 12–16 weeks. Education should focus on device handling, symptom monitoring, and when to seek care, as these reduce readmissions and mortality." 
+  },
+  {
+    "question": "How does the frequent exacerbator phenotype alter the trajectory of COPD, and what multidisciplinary interventions are most effective in reducing hospitalizations and costs?",
+    "answer": "Frequent exacerbators experience accelerated lung-function decline, reduced quality of life, and higher mortality. Multidisciplinary interventions—pulmonary rehabilitation, aftercare programs, inhaler training, and patient education—reduce exacerbations, hospitalizations, and costs. Early initiation of maintenance therapy post-exacerbation and structured follow-up at 1–4 and 12–16 weeks are critical for breaking the cycle of readmissions." 
+  },
+  {
+    "question": "A health system wants to implement a PRM-based clinical trial to use PRMfSAD change as a surrogate for disease modification. Define inclusion criteria, interventions, and how to interpret PRM shifts alongside FEV1 and SGRQ.",
+    "answer": "Include current/former smokers with high PRMfSAD and minimal PRMemph, excluding those with predominant emphysema. Randomize to early LAMA/LABA versus usual care. Over one year, decreases in PRMfSAD with stable FEV1 and improved SGRQ indicate slowed small-airways decline. PRMfSAD is sensitive to short-term change and correlates with clinical outcomes, making it a valuable surrogate endpoint." 
+  },
+  {
+    "question": "Explain the rationale for short-course systemic steroids in AECOPD, referencing the REDUCE trial and the risks of prolonged therapy. When should antibiotics be added, and what are the key elements of discharge planning?",
+    "answer": "The REDUCE trial showed 5-day systemic steroids are non-inferior to 14 days for re-exacerbations and lung-function recovery, reducing side effects. Add antibiotics for purulent sputum or suspected bacterial infection. Discharge planning must include inhaler technique verification, adherence assessment, and scheduled follow-ups, as these reduce readmissions and improve outcomes." 
+  },
+  {
+    "question": "A patient with persistent symptoms but infrequent exacerbations and low eosinophils is considering ICS. Construct a precision pathway for therapy escalation, including nonpharmacologic elements.",
+    "answer": "Avoid routine ICS in low-eosinophil, non-exacerbator patients. Optimize dual bronchodilation, confirm device selection, flawless technique, and adherence. Run pulmonary rehabilitation, vaccination, and cessation support in parallel. Escalate therapy only if exacerbation biology emerges or biomarkers change, in line with precision medicine principles." 
+  },
+  {
+    "question": "How do aging and ECM dysregulation interact to increase COPD risk, and what emerging therapies target these pathways?",
+    "answer": "Aging leads to ECM changes—decreased elastic fibers, increased collagen, and impaired repair—creating a vulnerable lung architecture. In COPD, these changes are accelerated, promoting airway collapse and emphysema. Emerging therapies targeting cellular senescence (e.g., senolytics) and ECM remodeling may slow disease progression and are under investigation for broader age-related lung diseases." 
+  },
+  {
+    "question": "A patient with COPD and multiple comorbidities is struggling with adherence to a complex inhaler regimen. Propose a strategy to simplify therapy and improve outcomes, referencing evidence on device selection and education.",
+    "answer": "Simplify to the fewest inhalers possible, matching device to patient ability and preference. Provide hands-on training and repeat checks at each visit. Use checklists to document errors and adherence, and audit outcomes by tracking exacerbations and hospitalizations. Education and device alignment improve satisfaction, adherence, and clinical outcomes." 
+  },
+  {
+    "question": "Describe the path from small-airways disease to emphysema as revealed by micro-CT and PRM, and explain how this understanding changes early intervention strategies.",
+    "answer": "Micro-CT shows terminal bronchiole loss precedes emphysema, with PRM detecting functional small-airways disease (PRMfSAD) before spirometric changes. Early identification allows for risk modification and initiation of maintenance therapy before irreversible damage occurs, shifting the focus from late-stage management to prevention of progression." 
+  },
+  {
+    "question": "A patient with COPD is readmitted twice in 60 days for exacerbations. Using evidence from both reviews, design a transitional-care bundle to reduce future readmissions.",
+    "answer": "Implement a bundle including early post-discharge follow-ups (1–4 and 12–16 weeks), inhaler technique training, medication reconciliation, pulmonary rehabilitation referral, and patient education on symptom monitoring. Multidisciplinary care and structured follow-up reduce readmissions, improve adherence, and enhance quality of life." 
+  },
+  {
+    "question": "How do genetic and environmental factors interact to shape individual COPD phenotypes, and what is the role of precision imaging in guiding therapy?",
+    "answer": "Genetic variants (e.g., ECM-related genes, CELSR1) and environmental exposures (smoking, pollutants) interact to produce heterogeneous COPD phenotypes. Precision imaging (PRM, micro-CT) enables early detection and subtyping, guiding personalized therapy and monitoring response to intervention, moving beyond one-size-fits-all management." 
+  }
+]
