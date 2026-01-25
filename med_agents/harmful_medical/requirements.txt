@@ -1,0 +1,11 @@
+ipython
+datasets
+jupyter
+pandas
+numpy
+python-dotenv
+matplotlib
+seaborn
+transformers
+torch
+accelerate
