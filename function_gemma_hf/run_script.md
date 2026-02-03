@@ -1,0 +1,1 @@
+HF_HOME=$HOME/.cache/huggingface uv run sft-tool-calling.py --max-steps 10 --report-to none
