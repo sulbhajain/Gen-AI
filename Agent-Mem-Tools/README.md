@@ -110,6 +110,11 @@ Get an API key from https://console.anthropic.com
 python main.py
 ```
 
+**Run the Streamlit app:**
+```bash
+streamlit run streamlit_app.py
+```
+
 **Available Commands:**
 - `/newthread` - Start a new conversation thread
 - `/showmemory` - Show stored memories for current user
