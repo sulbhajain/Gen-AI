@@ -173,6 +173,7 @@ chroma_db/
 # Hugging Face
 .cache/
 .huggingface/
+.hf_home/
 huggingface_hub/
 HF_HOME/
 hf_cache/
